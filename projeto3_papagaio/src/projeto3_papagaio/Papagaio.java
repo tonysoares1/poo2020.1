@@ -17,8 +17,9 @@ public class Papagaio {
 	}
 			
 	void andar() {
-		
 		this.passos +=1;
+		System.out.println("O papagaio pipo está andando");
+		
 	}
 	
 	void falar() {
